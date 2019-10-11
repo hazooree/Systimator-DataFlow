@@ -1,4 +1,13 @@
-# Systimator-DataFlow
+# Systimator: A Design Space Exploration Methodology for Systolic Array based CNNs Acceleration on the FPGA-based Edge Nodes
+Please Cite us as if you found this helpful
+@article{Ahmad2019SystimatorAD,
+  title={Systimator: A Design Space Exploration Methodology for Systolic Array based CNNs Acceleration on the FPGA-based Edge Nodes},
+  author={Hazoor Ahmad and Muhammad Tanvir and Muhammad Abdullah and Muhammad Usama Javed and Rehan Hafiz and Muhammad Shafique},
+  journal={ArXiv},
+  year={2019},
+  volume={abs/1901.04986}
+}
+
 A Simple Dataflow for Systimator on Tiny-Yolo, Yolo, AlexNet, CaffeNet and VGG16. <br>
 Pick any of the following architecture and run Systimator.
 # Tiny-Yolo Network Architecture
