@@ -1,5 +1,5 @@
 # Systimator: A Design Space Exploration Methodology for Systolic Array based CNNs Acceleration on the FPGA-based Edge Nodes
-Please Cite us as if you found this helpful
+Please Cite us if you found this helpful
 @article{Ahmad2019SystimatorAD,
   title={Systimator: A Design Space Exploration Methodology for Systolic Array based CNNs Acceleration on the FPGA-based Edge Nodes},
   author={Hazoor Ahmad and Muhammad Tanvir and Muhammad Abdullah and Muhammad Usama Javed and Rehan Hafiz and Muhammad Shafique},
